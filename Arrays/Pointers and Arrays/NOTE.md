@@ -1,0 +1,1 @@
+# arr[i], i[arr], *(arr+i), *(i+arr) gives the same value
